@@ -1,4 +1,4 @@
-FROM mongo:4
+FROM mongo:5
 
 ### Auth Configuration. Modify as needed. 
 ### These environment variables can also be specified through command line or docker-compose configuration
